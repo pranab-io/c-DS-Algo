@@ -1,4 +1,4 @@
-this is a repository containing all the codes from the placement series in C++ by aoni kaksha youtube channel.
+this is a repository containing all the codes from the placement series in C++ by apni kaksha youtube channel.
 special thanks to Aman sir for creating such an amazing course.
 
 to run any program you can directly compile and run a program
